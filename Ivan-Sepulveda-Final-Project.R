@@ -5,7 +5,7 @@ library(psych) # K Nearest Neighbor (KNN)
 library(class) # K Nearest Neighbor (KNN)
 
 
-# First: Import all S&P Data from Start Date - April 1st, 2018
+# First: Import all S&P Data from Start Date - April 1st, 20
 SNP_4_1_18 <- read.csv('constituents-financials.csv')
 
 # Cleaning Data: Deleting irrelevant columns
